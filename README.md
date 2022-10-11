@@ -1,4 +1,4 @@
-USC Viterbi
+USC Viterbi:
 Communications Data Science, MS. 
 
 <!---

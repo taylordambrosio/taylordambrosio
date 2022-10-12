@@ -1,5 +1,5 @@
-USC Viterbi:
-Communications Data Science, MS. 
+🎒 USC Viterbi <br />
+📚 Communications Data Science, MS. 
 
 <!---
 taylordambrosio/taylordambrosio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
